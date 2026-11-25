@@ -1,107 +1,131 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:00.770
+00:00:00.000 --> 00:00:00.669
 Hello, friend.
 
-00:00:00.770 --> 00:00:03.078
-See that button, Watch on Stremio?
+00:00:00.669 --> 00:00:03.011
+There's a film I want to finish.
 
-00:00:03.078 --> 00:00:05.387
-It's a door to another app.
+00:00:03.011 --> 00:00:04.683
+I remember the last scene.
 
-00:00:05.387 --> 00:00:07.695
-You decide whether to open it.
+00:00:04.683 --> 00:00:08.697
+I shouldn't have to remember which shelf an app put it on.
 
-00:00:07.695 --> 00:00:10.388
-Your live channels already work without it.
+00:00:08.697 --> 00:00:12.711
+Let's connect two apps so you can pick the story back up.
 
-00:00:10.708 --> 00:00:14.808
-Open Downloader and visit the official Stremio downloads page linked below.
+00:00:12.711 --> 00:00:13.715
+Stremio is optional.
 
-00:00:14.808 --> 00:00:18.536
-Choose Android TV, then the ARM package for your device.
+00:00:13.715 --> 00:00:15.722
+Your TV channels work either way.
 
-00:00:18.536 --> 00:00:19.281
-Install it.
+00:00:16.042 --> 00:00:18.570
+On your Fire TV, open Downloader.
 
-00:00:19.281 --> 00:00:20.027
-Open it.
+00:00:18.570 --> 00:00:22.784
+Visit the official Stremio downloads page linked below this video.
 
-00:00:20.027 --> 00:00:22.263
-Sign in to your Stremio account.
+00:00:22.784 --> 00:00:24.891
+Choose Android TV, then Latest.
 
-00:00:22.583 --> 00:00:25.211
-Back in TT tv, open My Library.
+00:00:24.891 --> 00:00:29.105
+Under Manual install, choose the ARM package for your device.
 
-00:00:25.211 --> 00:00:27.088
-Choose Sign in to Stremio.
+00:00:29.105 --> 00:00:29.948
+Select Install.
 
-00:00:27.088 --> 00:00:30.842
-On your phone, visit the link shown on the television.
+00:00:29.948 --> 00:00:32.055
+Open Stremio and sign in.
 
-00:00:30.842 --> 00:00:32.344
-Use the same account.
+00:00:32.375 --> 00:00:34.382
+Now switch back to TT tv.
 
-00:00:32.344 --> 00:00:34.972
-Enter the four characters from your screen.
+00:00:34.382 --> 00:00:37.394
+Open My Library and select Sign in to Stremio.
 
-00:00:35.292 --> 00:00:39.054
-Pick a Stremio film or episode in TT tv.
+00:00:37.394 --> 00:00:39.401
+Leave the television on that screen.
 
-00:00:39.054 --> 00:00:40.727
-Choose Watch on Stremio.
+00:00:39.401 --> 00:00:41.743
+On your phone, scan its QR code.
 
-00:00:40.727 --> 00:00:42.817
-Notice where you are now.
+00:00:41.743 --> 00:00:44.085
+Sign in with the same Stremio account.
 
-00:00:42.817 --> 00:00:45.744
-Stremio handles the sources and the player.
+00:00:44.085 --> 00:00:47.097
+Enter the four characters you see on your television.
 
-00:00:45.744 --> 00:00:51.597
-To refresh your library later, choose Sync now in TT tv's Stremio account settings.
+00:00:47.417 --> 00:00:51.111
+In TT tv, find a Stremio film or episode.
 
-00:00:51.917 --> 00:00:53.115
-Want another source?
+00:00:51.111 --> 00:00:52.753
+Press Watch on Stremio.
 
-00:00:53.115 --> 00:00:56.310
+00:00:52.753 --> 00:00:53.984
+See the change?
+
+00:00:53.984 --> 00:00:56.858
+You chose the story in TT tv.
+
+00:00:56.858 --> 00:01:00.142
+Now you're choosing the playback source inside Stremio.
+
+00:01:00.142 --> 00:01:05.888
+When you come back, use Stremio account, then Sync now, to refresh your library.
+
+00:01:06.208 --> 00:01:09.062
+If your source already works, you're done.
+
+00:01:09.062 --> 00:01:12.324
 Torrentio is an optional community add-on for Stremio.
 
-00:00:56.310 --> 00:01:00.304
-On your computer, follow the configuration link in the guide.
+00:01:12.324 --> 00:01:13.955
+It lists torrent sources.
 
-00:01:00.304 --> 00:01:02.301
-Choose your language and resolution.
+00:01:13.955 --> 00:01:19.255
+To configure it, open the link below on a computer with Stremio installed.
 
-00:01:02.301 --> 00:01:05.097
-Use sources you have permission to watch.
+00:01:19.255 --> 00:01:21.701
+Choose your preferred language and resolution.
 
-00:01:05.417 --> 00:01:07.855
-Real-Debrid is an optional paid service.
+00:01:21.701 --> 00:01:24.555
+Pick material you have permission to watch.
 
-00:01:07.855 --> 00:01:11.512
-To connect your account, choose RealDebrid in the configurator.
+00:01:24.875 --> 00:01:27.064
+Real-Debrid is a separate, paid service.
 
-00:01:11.512 --> 00:01:15.575
-Think of your API key as a spare house key.
+00:01:27.064 --> 00:01:32.173
+If you already use it and trust the add-on, select RealDebrid under Debrid Provider.
 
-00:01:15.575 --> 00:01:16.794
-Keep it private.
+00:01:32.173 --> 00:01:35.457
+Use Find API Key to get your own key.
 
-00:01:16.794 --> 00:01:19.638
-The installation link needs the same care.
+00:01:35.457 --> 00:01:38.011
+That key opens part of your account.
 
-00:01:19.958 --> 00:01:22.468
-Choose Install, then confirm in Stremio.
+00:01:38.011 --> 00:01:40.930
+Keep it and the installation link to yourself.
 
-00:01:22.468 --> 00:01:26.233
-Reopen Stremio on the TV using the same account.
+00:01:41.250 --> 00:01:43.118
+Select Install in the configurator.
 
-00:01:26.233 --> 00:01:28.742
-Try a title you can watch.
+00:01:43.118 --> 00:01:44.985
+When Stremio opens, confirm Install.
 
-00:01:28.742 --> 00:01:31.252
-Next time, start from TT tv.
+00:01:44.985 --> 00:01:48.347
+Reopen Stremio on the television with the same account.
 
-00:01:31.252 --> 00:01:34.180
-You already know where the door goes.
+00:01:48.347 --> 00:01:49.467
+Try your film.
+
+00:01:49.467 --> 00:01:52.455
+And when somebody asks how you did it?
+
+00:01:52.455 --> 00:01:53.202
+Show them.
+
+00:01:53.202 --> 00:01:58.805
+Knowing which button to press feels a lot better when you can pass it on.
 
